@@ -1,4 +1,4 @@
-/* Reset and basic styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -66,7 +66,7 @@ body {
     margin-bottom: 20px;
     padding: 10px;
     border-radius: 8px;
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    background-color: rgba(255, 255, 255, 0.8);
     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
 }
 
@@ -78,11 +78,11 @@ body {
 
 .score1 {
     width: 100px;
-    background-color: #a2d5f2; /* Light blue */
+    background-color: #a2d5f2; 
 }
 
 .score2 {
-    background-color: #f2a2a2; /* Light red */
+    background-color: #f2a2a2; 
     width: 100px;
 }
 
